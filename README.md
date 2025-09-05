@@ -2,7 +2,8 @@
 **Task 4: House Price Prediction**
 
 **📌 Project Description**
-In this task, we build a Linear Regression model to predict house prices using the Boston Housing Dataset.
+
+In this task, i build a Linear Regression model to predict house prices using the Boston Housing Dataset.
 The dataset contains information about housing in Boston, including crime rate, number of rooms, property tax, and more.
 Our goal is to predict the median value of owner-occupied homes (MEDV).
 📊 Steps Performed
