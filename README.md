@@ -57,6 +57,7 @@ Model Training – Trained a Linear Regression model
 Model Evaluation – Calculated Root Mean Squared Error (RMSE) on test set
 
 User Input Prediction – Allow user to enter custom input values (13 features) and predict the house price
+
 **⚙️ Tools & Technologies**
 
 Python 3
